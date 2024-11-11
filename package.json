@@ -1,0 +1,20 @@
+{
+    "name": "rspack-demo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@rspack/cli": "^1.1.0",
+        "@rspack/core": "^1.1.0",
+        "vue": "2.7.15",
+        "vue-html-loader": "^1.2.4",
+        "vue-loader": "^15.10.1",
+        "vue-style-loader": "^4.1.0",
+        "vue-template-compiler": "2.7.15"
+    }
+}
